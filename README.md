@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=anuska2027biswas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Alt Text](https://giphy.com/embed/VTtANKl0beDFQRLDTh)
+
 
 
 
