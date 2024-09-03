@@ -1,5 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=anuska2027biswas&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Coding GIF](https://github.com/anuska2027biswas/anuska2027biswas/blob/main/giphy.webp)
 
 
 
