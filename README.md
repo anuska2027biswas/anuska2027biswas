@@ -1,5 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=anuska2027biswas&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Front-End Development<br>👯 I’m looking to collaborate on Front-End Projects<br>🤝 I’m looking for help with App Development<br>🌱 I’m currently learning React JS and React Native<br>💬 Ask me about JAVASCRIPT<br>
 
