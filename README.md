@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=anuska2027biswas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-(![MasterHead](https://i.redd.it/sn51brnpz6yb1.gif))
+(![MasterHead](https://giphy.com/embed/L1R1tvI9svkIWwpVYr))
 
 
 # 💫 About Me:
