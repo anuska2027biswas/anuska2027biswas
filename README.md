@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=anuska2027biswas&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on Front-End Development<br>👯 I’m looking to collaborate on Front-End Projects<br>🤝 I’m looking for help with App Development<br>🌱 I’m currently learning React JS and React Native<br>💬 Ask me about JAVASCRIPT<br>
 
@@ -18,7 +20,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=anuska2027biswas&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
