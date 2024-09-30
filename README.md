@@ -2,8 +2,6 @@
 
 
 
-![Coding GIF](https://github.com/anuska2027biswas/anuska2027biswas/blob/main/celebration-labour-day-with-3d-cartoon-portrait-working-woman.jpg)
-
 
 
 
